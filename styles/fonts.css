@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/RR.ttf) format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'PR';
+    src: url(../fonts/PR.ttf) format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'PM';
+    src: url(../fonts/PM.ttf) format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'PSB';
+    src: url(../fonts/PSB.ttf) format('truetype');
+    font-weight: 600;
+}

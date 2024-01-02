@@ -1,0 +1,126 @@
+.footer{
+    position: relative;
+    transform: translateY(1205px);
+    border-top: 0.5px solid #FFFFFF26;
+}
+.footer__wrap{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 352px;
+}
+.footer__copyright{
+    margin: 70px 156px 0 0;
+    max-width: 260px;
+    width: 100%;
+    height: 183px;
+    border-radius: 8px;
+}
+.footer__copyright-title{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFFE5;
+    margin: 25px 0 21px;
+}
+.footer__copyright-text{
+    font-family: 'PR';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #FFFFFF8C;
+}
+.footer__link{
+    width: 100%;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    gap: 115px;
+}
+.footer__link-contact{
+    max-width: 197px;
+    width: 100%;
+    height: 142px;
+}
+.footer__link-contact-title{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFFE5;
+    margin-bottom: 20px;
+}
+.footer__link-contact-tel{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}
+.footer__link-contact-address{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+    margin: 10px 0 10px;
+}
+.footer__link-contact-email{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}
+.footer__link-category{
+    max-width: 112px;
+    width: 100%;
+    height: 108px;
+}
+.footer__link-category-title{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFFE5;
+}
+.footer__link-category-textst{
+    margin: 20px 0 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}
+.footer__link-category-textnd{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}
+.footer__link-info{
+    max-width: 144px;
+    width: 100%;
+    height: 142px;
+}
+.footer__link-info-title{
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFFE5;
+}
+.footer__link-info-textst{
+    margin: 20px 0 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}
+.footer__link-info-textnd{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}
+.footer__link-info-textrd{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF8C;
+}

@@ -152,3 +152,93 @@
     top: 29px;
     right: 254px;
 }
+.header__banner-pics-vert-top-rect{
+    position: absolute;
+    top: 11px;
+    right: 50px;
+}
+.header__banner-pics-vert-top-circle{
+    position: absolute;
+    top: 42px;
+    right: 184px;
+}
+.header__banner-pics-vert-blue{
+    position: absolute;
+    top: 68px;
+    right: 120px;
+}
+.header__banner-pics-vert-img{
+    position: absolute;
+    top: 11px;
+    right: 50px;
+}
+.header__banner-pics-vert-mid-st{
+    position: absolute;
+    top: 158px;
+    right: 70px;
+}
+.header__banner-pics-vert-mid-nd{
+    position: absolute;
+    top: 186px;
+    right: 88px;
+}
+.header__banner-pics-vert-mid-rd{
+    position: absolute;
+    top: 212px;
+    right: 106px;
+}
+.header__banner-pics-vert-rect{
+    position: absolute;
+    top: 250px;
+    right: 70px;
+}
+.header__banner-pics-hor-img{
+    position: absolute;
+    top: 142px;
+    right: 0;
+}
+.header__banner-pics-hor-top-rect{
+    position: absolute;
+    top: 142px;
+    right: 1px;
+}
+.header__banner-pics-hor-top-circle{
+    position: absolute;
+    top: 182px;
+    left: 74px;
+}
+.header__banner-pics-hor-yellow{
+    position: absolute;
+    top: 248px;
+    left: 0;
+}
+.header__banner-pics-hor-midst{
+    position: absolute;
+    bottom: 338px;
+    left: 74px;
+}
+.header__banner-pics-hor-midnd{
+    position: absolute;
+    bottom: 336px;
+    left: 74px;
+}
+.header__banner-pics-hor-midrd{
+    position: absolute;
+    bottom: 332px;
+    left: 74px;
+}
+.header__banner-pics-hor-bot{
+    position: absolute;
+    top: 426px;
+    left: 22px;
+}
+.header__banner-pics-hor-botst{
+    position: absolute;
+    top: 470px;
+    left: 46px;
+}
+.header__banner-pics-hor-botnd{
+    position: absolute;
+    top: 496px;
+    left: 46px;
+}

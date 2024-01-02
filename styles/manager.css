@@ -1,0 +1,107 @@
+.manager{
+    transform: translateY(828px);
+}
+.manager__wrap{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+.manager__lb{
+    position: absolute;
+    left: 16px;
+    bottom: 380px;
+}
+.manager__lb:hover{
+    fill: red !important;
+}
+.manager__rb{
+    position: absolute;
+    right: 16px;
+    bottom: 380px;
+    color: #FFFFFF47;
+}
+.manager__rb:hover{
+    color: #FF6E30;
+}
+.manager__desc{
+    position: relative;
+    max-width: 849px;
+    height: 492px;
+}
+.manager__desc-imgcircle{
+    position: absolute;
+    bottom: 133px;
+    left: 295px;
+}
+.manager__desc-imgronald{
+    position: absolute;
+    z-index: 100;
+    bottom: 108px;
+    left: 295px;
+}
+.manager__desc-name{
+    position: absolute;
+    bottom: 138px;
+    left: 425px;
+    z-index: 10111;
+    max-width: 265px;
+    width: 100%;
+    height: 91px;
+    border-radius: 8px;
+    border: 1px solid linear-gradient(96.67deg, rgba(255, 255, 255, 0.1) -5.21%, rgba(255, 255, 255, 0) 93.75%);
+    background: linear-gradient(0deg, rgba(40, 48, 54, 0.2), rgba(40, 48, 54, 0.2)),
+    linear-gradient(96.67deg, rgba(255, 255, 255, 0.1) -5.21%, rgba(255, 255, 255, 0) 93.75%);
+}
+.manager__desc-name-title{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 39px;
+    color: #FFFDFDC7;
+}
+.manager__desc-name-text{
+    font-family: 'PR';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFDFD8C;
+    padding: 0 0 16px 23px;
+}
+.manager__desc-brackets{
+    position: absolute;
+    bottom: 246px;
+    right: 66px;
+    font-family: 'LM';
+    font-size: 250px;
+    font-weight: 500;
+    line-height: 320px;
+    color: linear-gradient(188.88deg, rgba(252, 252, 252, 0) 20.34%, rgba(255, 255, 255, 0.5) 155.72%);
+    transform: rotate(20deg);
+}
+.manager__desc-text{
+    position: absolute;
+    bottom: 292px;
+    left: 744px;
+    font-family: 'RR';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFFC7;
+    max-width: 393px;
+    width: 100%;
+    height: 180px;
+}
+.manager__underlines{
+    max-width: 168px;
+    width: 100%;
+    height: 8px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 18px;
+    justify-content: center;
+    margin: 0 auto;
+}

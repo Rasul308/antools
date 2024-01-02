@@ -1,10 +1,9 @@
 @import url(./base.css);
 @import url(./fonts.css);
 @import url(header.css);
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(./popular.css);
+@import url(./brand.css);
+@import url(./newcomer.css);
+@import url(./manager.css);
+@import url(./become.css);
+@import url(./footer.css);
